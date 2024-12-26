@@ -3,7 +3,7 @@
    "version_date" : "2024년12월21일",
    "noti" : true,
    "notiIsUrl" : true,
-   "noti_no_show_key" : "20241227",
+   "noti_no_show_key" : "20241226",
    "versionCode" : 8,
    "notilist":[{
     "title" : "노선개편안내\n[2024.12.21(토) 첫 차부터]",
