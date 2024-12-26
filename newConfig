@@ -6,7 +6,7 @@
    "noti_no_show_key" : "20241226",
    "versionCode" : 8,
    "notilist":[{
-    "title" : "공지사항",
+    "title" : "노선개편안내",
     "msg" : "https://www.ulsan.go.kr/bus/images/main/popup_202410.jpg"
    }]  
 }
