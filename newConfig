@@ -1,6 +1,6 @@
 {
-   "version" : 3,
-   "version_date" : "2025년03월06일",
+   "version" : 4,
+   "version_date" : "2025년03월31일",
    "noti" : true,
    "notiIsUrl" : true,
    "noti_no_show_key" : "20241226",
